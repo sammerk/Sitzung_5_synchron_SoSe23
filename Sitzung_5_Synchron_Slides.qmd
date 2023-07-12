@@ -26,6 +26,9 @@ csl: apa.csl
 [{{< fa brain >}}]{.imp} Warm-Up Aufgabe »aus dem Lehrerinnenzimmer«
 
 <br>
+[{{< fa arrows-turn-to-dots >}}]{.imp} Elaboration anhand »Live-Studie«
+
+<br>
 [{{< fa arrows-turn-to-dots >}}]{.imp} Elaboration mit »Knobelaufgaben«
 
 <br>
@@ -210,6 +213,11 @@ ggplot(data, aes(`Punkte in KA`, color = Klasse)) +
 
 ::::
 
+
+## {{< fa arrows-turn-to-dots >}} Elaboration mit Live-Experiment {.smaller .center}
+> Bitte bearbeiten Sie die Survey unter [https://bit.ly/merk105 {{< fa square-up-right >}}](https://bit.ly/merk105)
+
+> Unter allen, die ihre anonymisierten Daten spenden losen wir wieder einen 10€ Gutschein aus.
 
 ## {{< fa arrows-turn-to-dots >}} Elaboration mit Knobelaufgaben {.smaller .center}
 
